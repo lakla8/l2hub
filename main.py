@@ -1,6 +1,4 @@
-import random as r
 import telebot
-import wikipedia
 from telebot import types
 
 token = "5402416687:AAHDIY373u8HDVzQ4YIsX4mpn8O2GybNNag"  # ВСТАВЬТЕ СЮДА ТОКЕН БОТА ИЗ @BOTFATHER
