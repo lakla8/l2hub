@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-token = "5402416687:AAHDIY373u8HDVzQ4YIsX4mpn8O2GybNNag"  # ВСТАВЬТЕ СЮДА ТОКЕН БОТА ИЗ @BOTFATHER
+token = ""  # ВСТАВЬТЕ СЮДА ТОКЕН БОТА ИЗ @BOTFATHER
 
 bot = telebot.TeleBot(token=token)
 
